@@ -1,0 +1,10 @@
+{
+	"color_sensor.colors.Red|block":"红色",
+	"color_sensor.colors.Green|block":"绿色",
+	"color_sensor.colors.Blue|block":"蓝色",
+	"color_sensor.colors.White|block":"白色",
+	"color_sensor.colors.Black|block":"黑色",
+	"color_sensor.colors.None|block":"未识别",
+	"color_sensor.init_colorSensor|block":"初始化颜色传感器接口4(P19:SCL,P20:SDA)",
+	"color_sensor.checkCurrentColor|block":"检测到颜色 %color"
+}
