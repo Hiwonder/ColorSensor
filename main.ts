@@ -250,7 +250,7 @@ namespace color_sensor {
     /**
      * Initialize the color sensor,please execute at boot time
      */
-    //% weight=98 blockId=init_colorSensor block="Initialize color sensor port at port 4 (P19:SCL,P20:SDA)"
+    //% weight=98 blockId=init_colorSensor block="Initialize color sensor port at pin (P19:SCL,P20:SDA)"
     export function init_colorSensor() {
         InitColor();
         enableLightSensor(true);
