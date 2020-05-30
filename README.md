@@ -10,5 +10,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-color_sensor=github:Hiwonder/color_sensor
+ColorSensor=github:Hiwonder/ColorSensor
 ```
